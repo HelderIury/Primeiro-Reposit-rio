@@ -1,2 +1,2 @@
 # Uri-Python
- Questôes do Uri resolvidas em Python
+ Questôes do Uri resolvidas em Python!
